@@ -7,7 +7,7 @@ try:
   with urllib.request.urlopen(url) as response:
       # Read and decode bytes to text string
       content = response.read().decode('utf-8')
-  RashFS.write(destination, content)
+  rashFS.write(destination, content)
 except Exception as e:
   print("Error: " + str(e))
 
