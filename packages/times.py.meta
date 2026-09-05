@@ -1,0 +1,4 @@
+depends = []
+location = "/paoket/packages/times.py"
+otherloc = ["/paoket/", "/paoket/packages/"]
+version = "1.0.0"
