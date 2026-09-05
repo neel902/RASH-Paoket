@@ -1,3 +1,3 @@
 depends = []
 location = "/paoket/packages/wget.py"
-otherloc = []
+otherloc = ["/paoket/", "/paoket/packages/"]
