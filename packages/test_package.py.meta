@@ -1,3 +1,4 @@
 depends = []
 location = "/paoket/packages/test_package.py"
 otherloc = ["/paoket/", "/paoket/packages/"]
+version = "1.0.0"
